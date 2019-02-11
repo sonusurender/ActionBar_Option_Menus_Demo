@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <Button
+        android:id="@+id/show_hide_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:text="@string/hide" />
+
+    <Button
+        android:id="@+id/custom_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:text="@string/custom_menu_activity" />
+
+    <Button
+        android:id="@+id/custom_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:text="@string/custom_actionbar_activity" />
+
+</LinearLayout>

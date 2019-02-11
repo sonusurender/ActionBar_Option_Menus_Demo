@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar and Menus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="email">Email</string>
+    <string name="attachment">Attachment</string>
+    <string name="save">Save</string>
+    <string name="show">Show ActionBar</string>
+    <string name="hide">Hide ActionBar</string>
+    <string name="custom_menu_activity">Custom Menu Activity</string>
+    <string name="custom_actionbar_activity">Custom Actionbar Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="custom_menu">Custom Menu</string>
+    <string name="enter">Enter Something</string>
+    <string name="custom_actionbar_title">Custom Title</string>
+
+</resources>

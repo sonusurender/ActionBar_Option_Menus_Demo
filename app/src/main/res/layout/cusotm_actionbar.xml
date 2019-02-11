@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/custom_actionbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/androhub_logo"
+        android:drawablePadding="5dp"
+        android:drawableStart="@drawable/androhub_logo"
+        android:gravity="center_vertical"
+        android:text="@string/custom_actionbar_title"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+</LinearLayout>
